@@ -1,4 +1,4 @@
-# 🔥 PyTorch Image Classifier
+# PyTorch Image Classifier 🔥
 *(simple code architecture to understand)*
 
 ![pytorch](https://img.shields.io/badge/1.12.1-torch-red?logo=pytorch&logoColor=white)
