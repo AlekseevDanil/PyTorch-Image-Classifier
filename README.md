@@ -48,7 +48,7 @@ There are only 2 important files in this repository
 - **torch-ok.ipynb** *(named to understand that PyTorch is ok)* - in the book, you can step by step launching a cell to create your own classification neural network.
 
 ❗️Before you start, you must have the [Python](https://www.python.org/downloads/) programming language version 3.7 installed.\
- After it is important to install all the necessary libraries, go from the directory to the terminal and write the command `pip3 install -r -U requirements.txt`. Then write command `jupyter notebook` to open the Jupyter notebook and open `torch-ok.ipynb` file.
+ After it is important to install all the necessary libraries, go from the directory to the terminal and write the command `pip3 install -U -r requirements.txt`. Then write command `jupyter notebook` to open the Jupyter notebook and open `torch-ok.ipynb` file.
 
 Having entered the file with the notebook itself, you will see a comment explaining this or that action. Good luck!
 
