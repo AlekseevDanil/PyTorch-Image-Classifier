@@ -9,4 +9,4 @@ opendatasets==0.1.22
 torch==1.12.1
 torchvision==0.13.1
 torchmetrics==0.9.3
-pillow==9.2.0
+pillow==9.3.0
